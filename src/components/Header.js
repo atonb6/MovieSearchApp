@@ -5,7 +5,7 @@ class Header extends React.Component {
     return (
       <nav className="relative mx-auto bg-indigo-700 max-w-7xl py-4 px-4">
         <div class="container mx-auto">
-          <h1 class="text-white text-center text-3xl pb-4"> Movie Search </h1>{" "}
+          <h1 class="text-white text-center text-3xl pb-4"> Buscador de Películas </h1>{" "}
         </div>{" "}
       </nav>
     );
