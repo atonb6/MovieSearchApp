@@ -1,8 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
-import "./tailwind.css";
+import "./tailwind.output.css";
 import SearchMovies from "./components/Search";
-import Results from "./components/Results";
 
 function App() {
   return (
